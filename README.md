@@ -14,3 +14,5 @@
 
 ### Credits: 
   Online course: Game Development - None Class: https://noneclass.com.br/
+#
+  Since the game file is too large to upload here on GitHub, please follow the link to the game's page on Itch.io: https://franzzatv.itch.io/poing-game. There, you can download the game.
