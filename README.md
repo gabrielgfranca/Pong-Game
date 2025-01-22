@@ -1,4 +1,4 @@
-# Pong-Game-Python-
+# Pong-Game-Python
 
 This project is a modern implementation of the classic **Pong Game**, developed to practice advanced programming concepts using Python and the `turtle` library. The primary focus of this project was to reinforce **Object-Oriented Programming (OOP)**, explore Python's event handling capabilities, and design an interactive gaming experience.
 
@@ -23,11 +23,9 @@ If you have suggestions for improvement or encounter issues, feel free to contri
 
 ## Images
 <div style="display: inline_block"><br>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/dbf38c16-d4af-4338-91f7-ac2f9ae21caa"/>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/a6382be6-bf9b-4c82-ab91-e9bbb0cee9ad"/>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/795cd414-eb46-446d-819e-0b0fbc9a00ac"/>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/c0e3b0b3-393e-41ff-a9ca-ce871a005420"/>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/26cfbdfc-d19e-4a1c-b3d5-73d6c8e61b7c"/>
-  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/6a1595de-1f34-4fb5-bded-9be353028d31"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/41da784e-1cee-42bd-8295-069ea470fe29"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/80d37a96-d1cf-452d-8cb6-9e6b525826d6"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/3d99bf2d-86f2-486d-9e3e-edfd03f0c849"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/84cf4f86-12ce-4274-bbf8-86bda4ed3e0d"/>
 </div>
 
