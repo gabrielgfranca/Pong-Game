@@ -1,4 +1,4 @@
-# Pong-Game-Python
+# Pong-Game
 
 This project is a modern implementation of the classic **Pong Game**, developed to practice advanced programming concepts using Python and the `turtle` library. The primary focus of this project was to reinforce **Object-Oriented Programming (OOP)**, explore Python's event handling capabilities, and design an interactive gaming experience.
 
